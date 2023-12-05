@@ -3,7 +3,7 @@
   <h3>Career changer - Software developer from Glasgow</h3>
   <p> <img src="https://komarev.com/ghpvc/?username=gillianroberts1&label=Profile%20views&color=0e75b6&style=flat" alt="gillianroberts1" /> </p>
 
-  <p>🌱 I’m currently following on with my studies since completing the CodeClan Professional Development Course, further enhancing my existing skills and knowledge. Aside form that, I continue to work on my existing projects and practicing coding challenges in preperation for job interviews</p>
+  <p> 🌱 I’m currently following on with my studies since completing the CodeClan Professional Development Course, further enhancing my existing skills and knowledge. Aside from that, I continue to work on my existing projects and practicing coding challenges in preperation for job interviews</p>
 
   <p>👨‍💻 All of my projects are available at <a href="https://gillianaroberts.com">gillianaroberts.com</a></p>
 
