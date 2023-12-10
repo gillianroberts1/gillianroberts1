@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gillianroberts1&label=Profile%20views&color=0e75b6&style=flat" alt="gillianroberts1" /> </p>
 
-- 🌱 I’m currently continuing my studies follwing the CodeClan course, working on existing projects and sharpening my skills with coding challenges**
+- 🌱 I’m currently continuing my studies following the CodeClan course, working on existing projects and sharpening my skills with coding challenges**
 
 - 👨‍💻 All of my projects are available at [gillianaroberts.com](gillianaroberts.com)
 
