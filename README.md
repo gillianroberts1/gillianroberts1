@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently continuing my studies following the CodeClan course, working on existing projects and sharpening my skills with coding challenges**
 
-- 👨‍💻 All of my projects are available at [gillianaroberts.com](gillianaroberts.com)
+- 👨‍💻 All of my projects are available at [gillianaroberts.com](https://gillianaroberts.com)
 
 - 📫 How to reach me **gillianroberts@me.com**
 
