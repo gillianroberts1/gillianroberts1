@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gillian</h1>
-<h3 align="center">Career changer - Software developer from Glasgow</h3>
+<h3 align="center">Career changer - Software Engineer from Glasgow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gillianroberts1&label=Profile%20views&color=0e75b6&style=flat" alt="gillianroberts1" /> </p>
 
-- 🌱 I’m currently continuing my studies following the CodeClan course, working on existing projects and sharpening my skills with coding challenges**
+- 🌱 Former Newbuild Property Professional of 25 years. Now a CodeClan graduate, starting with the BBC as a Junior Software Engineer in September 2025. In the mean time I am working on existing projects and sharpening my skills with further study**
 
 - 👨‍💻 Some of my projects are available at [gillianaroberts.com](https://gillianaroberts.com)
 
